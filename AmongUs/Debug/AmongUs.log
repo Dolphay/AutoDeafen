@@ -1,0 +1,12 @@
+﻿  Classes.cpp
+  dllmain.cpp
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(141,28): warning C4101: 'msg': unreferenced local variable
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(152,29): warning C4302: 'type cast': truncation from 'void *' to 'BYTE'
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(170,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(182,24): warning C4101: 'msg': unreferenced local variable
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(192,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AmongUs.vcxproj -> C:\Users\rman9\source\repos\AmongUs\Debug\AmongUs.dll
